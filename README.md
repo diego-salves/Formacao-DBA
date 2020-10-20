@@ -1,2 +1,2 @@
 # dba_course
- Projetos do curso admnistrador em banco de dados
+ Projetos do curso de Admnistrador de Banco de Dados no IFRO.

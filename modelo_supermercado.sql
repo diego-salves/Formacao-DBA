@@ -1,5 +1,5 @@
 create table Cliente(
-id_cli int primary key,
+id_cli int primary key auto_increment,
 nome_cli varchar(100),
 endereco_cli varchar(100),
 cpf_cli varchar(20)
